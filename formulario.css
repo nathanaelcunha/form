@@ -21,6 +21,14 @@
     display: inline-block;
 }
 
+#nome {
+    text-transform: uppercase;
+}
+
+#sobrenome {
+    text-transform: uppercase;
+}
+
 fieldset {
     border: 0;
 }
